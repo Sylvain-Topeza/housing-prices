@@ -2,9 +2,7 @@
 
 *🇬🇧 [Read in English](README.md)*
 
-Ce dépôt archive un projet de recherche supervisé par le **Professeur Antonin Bergeaud (HEC Paris, Professeur Associé en Économie, Prix du Meilleur Jeune Économiste de France 2025)**.
-
-Il analyse l'hétérogénéité spatiale des prix des logements à Paris à l'aide de la base de données publique des transactions immobilières françaises (DVF+) et remet en question la pertinence économique des 20 arrondissements administratifs en tant qu'unités d'analyse.
+Ce projet de recherche analyse l'hétérogénéité spatiale des prix des logements à Paris à l'aide de la base de données publique des transactions immobilières françaises (DVF+) et remet en question la pertinence économique des 20 arrondissements administratifs en tant qu'unités d'analyse.
 
 ## 📖 Aperçu
 
