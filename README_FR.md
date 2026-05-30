@@ -64,6 +64,6 @@ Diffusé sous la **Licence MIT**.
 
 ## 🙋 Remerciements
 
-Réalisé dans le cadre d'un projet de recherche à **HEC Paris** sous la supervision du **Professeur Antonin Bergeaud (HEC Paris)**, dont les conseils méthodologiques ont guidé ce travail.
+Réalisé dans le cadre d'un projet de recherche à **HEC Paris** sous la supervision du **Professeur Antonin Bergeaud (lauréat du prix du meilleur jeune économiste français 2025)**, dont les conseils méthodologiques ont guidé ce travail.
 
 Données fournies par le **Cerema (DVF+)**, **Etalab / data.gouv.fr**, et **Open Data Paris**.
