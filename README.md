@@ -1,6 +1,6 @@
 # Spatial Analysis of Paris Housing Prices — Endogenous Regionalization of the Real Estate Market
 
-*🇫🇷 [Lire en français](README_FR.md)*
+*🇫🇷  [Lire en français](README_FR.md)*
 
 This repository archives a research project supervised by **Prof. Antonin Bergeaud (HEC Paris, Associate Professor of Economics, 2025 Best Young French Economist Award)**.
 
