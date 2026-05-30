@@ -66,6 +66,6 @@ Released under the **MIT License**.
 
 ## 🙋 Acknowledgements
 
-Conducted as a research elective project at **HEC Paris** under the supervision of **Prof. Antonin Bergeaud (HEC Paris)**, whose guidance on spatial econometrics and methodology shaped the direction of this work.
+Conducted as a research project at **HEC Paris** under the supervision of **Prof. Antonin Bergeaud**, whose methodological guidance shaped the direction of this work.
 
 Data provided by **Cerema (DVF+)**, **Etalab / data.gouv.fr**, and **Open Data Paris**.
